@@ -1,4 +1,4 @@
-Olá, me chamo Letícia Fonseca!
+Olá, prazer!
 Sou Estudante de Ciência de Dados e graduada em Gestão de Recursos Humanos.
 Tenho innteresse nas áreas de Dados, Programação e Solução de Problemas
 
