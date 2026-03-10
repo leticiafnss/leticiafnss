@@ -1,8 +1,6 @@
 Olá, me chamo Letícia Fonseca!
 Sou Estudante de Ciência de Dados e graduada em Gestão de Recursos Humanos.
-
-🔄 Em transição de carreira para tecnologia.
-📊 Interesse em Dados, Programação e Solução de Problemas
+Tenho innteresse nas áreas de Dados, Programação e Solução de Problemas
 
 Sobre mim:
 
